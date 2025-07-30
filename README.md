@@ -1,1 +1,3 @@
-# Spam-Classifier-
+# 📧 Spam Classifier
+
+This project is a web-based Machine Learning application that classifies SMS and text messages as Spam or Not Spam. Built using Python (Flask) and scikit-learn, the app uses natural language processing techniques like tokenization, stopword removal, and TF-IDF vectorization. It features a clean, interactive UI and supports real-time predictions, voice input, multilingual translation, metadata display, batch CSV upload, and model retraining. Ideal for learning ML deployment and building practical NLP tools.
